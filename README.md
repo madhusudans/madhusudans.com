@@ -1,2 +1,2 @@
-# madhusudans.github.com
+# madhusudans.com
 Personal Website
